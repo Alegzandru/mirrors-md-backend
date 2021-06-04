@@ -36,8 +36,9 @@
     "slug": {
       "type": "uid"
     },
-    "add_ons": {
-      "collection": "add-ons"
+    "category": {
+      "model": "category",
+      "via": "products"
     }
   }
 }

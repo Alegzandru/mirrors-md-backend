@@ -42,7 +42,7 @@
     "email": {
       "type": "email"
     },
-    "orders": {
+    "Products": {
       "collection": "product"
     },
     "mod_de_plata": {
@@ -51,6 +51,12 @@
         "numerar",
         "card"
       ]
+    },
+    "Add_ons": {
+      "collection": "add-ons"
+    },
+    "price": {
+      "type": "decimal"
     }
   }
 }
