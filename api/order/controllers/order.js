@@ -34,5 +34,9 @@ module.exports = {
 
     return sanitizeEntity(entity, { model: strapi.models.order });
   },
+
+  find(params, populate) {
+    return strapi.query('restaurant').find(params, populate);
+  },
 };
 
