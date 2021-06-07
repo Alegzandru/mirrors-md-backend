@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "categories",
+  "collectionName": "sizes",
   "info": {
-    "name": "Category",
+    "name": "size",
     "description": ""
   },
   "options": {
@@ -12,15 +12,11 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "name": {
-      "type": "string"
+    "width": {
+      "type": "integer"
     },
-    "products": {
-      "via": "category",
-      "collection": "product"
-    },
-    "slug": {
-      "type": "uid"
+    "height": {
+      "type": "integer"
     }
   }
 }
