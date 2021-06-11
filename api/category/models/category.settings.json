@@ -24,6 +24,9 @@
     },
     "add_ons": {
       "collection": "add-ons"
+    },
+    "filters": {
+      "collection": "filter"
     }
   }
 }
