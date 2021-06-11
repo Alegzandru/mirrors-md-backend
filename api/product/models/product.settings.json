@@ -39,6 +39,9 @@
     "category": {
       "via": "products",
       "model": "category"
+    },
+    "filters": {
+      "collection": "filter"
     }
   }
 }
