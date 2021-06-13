@@ -24,7 +24,7 @@
     "email": {
       "type": "email"
     },
-    "Orders": {
+    "orders": {
       "collection": "order"
     }
   }

@@ -42,7 +42,7 @@
     "email": {
       "type": "email"
     },
-    "Products": {
+    "products": {
       "collection": "product"
     },
     "mod_de_plata": {
@@ -52,7 +52,7 @@
         "card"
       ]
     },
-    "Add_ons": {
+    "add_ons": {
       "collection": "add-ons"
     },
     "price": {
