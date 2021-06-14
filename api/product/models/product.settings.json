@@ -27,9 +27,6 @@
       "required": false,
       "pluginOptions": {}
     },
-    "description": {
-      "type": "text"
-    },
     "price": {
       "type": "decimal"
     },
@@ -42,6 +39,9 @@
     },
     "filters": {
       "collection": "filter"
+    },
+    "description": {
+      "type": "richtext"
     }
   }
 }
