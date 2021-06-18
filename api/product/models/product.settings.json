@@ -66,6 +66,9 @@
     },
     "defaultsize": {
       "model": "size"
+    },
+    "linkedsizes": {
+      "collection": "size"
     }
   }
 }
