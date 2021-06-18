@@ -46,9 +46,6 @@
     "m2price": {
       "type": "decimal"
     },
-    "smallsize": {
-      "model": "size"
-    },
     "mediumsize": {
       "model": "size"
     },
