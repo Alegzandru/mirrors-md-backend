@@ -17,6 +17,9 @@
     },
     "height": {
       "type": "integer"
+    },
+    "name": {
+      "type": "string"
     }
   }
 }
