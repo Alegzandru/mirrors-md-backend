@@ -42,6 +42,30 @@
     },
     "description": {
       "type": "richtext"
+    },
+    "m2price": {
+      "type": "decimal"
+    },
+    "smallsize": {
+      "model": "size"
+    },
+    "mediumsize": {
+      "model": "size"
+    },
+    "bigsize": {
+      "model": "size"
+    },
+    "smallcoeficient": {
+      "type": "decimal"
+    },
+    "mediumcoeficient": {
+      "type": "decimal"
+    },
+    "bigcoeficient": {
+      "type": "decimal"
+    },
+    "defaultsize": {
+      "model": "size"
     }
   }
 }
