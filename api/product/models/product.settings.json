@@ -69,6 +69,12 @@
     },
     "linkedsizes": {
       "collection": "size"
+    },
+    "smallestsize": {
+      "model": "size"
+    },
+    "biggestsize": {
+      "model": "size"
     }
   }
 }
