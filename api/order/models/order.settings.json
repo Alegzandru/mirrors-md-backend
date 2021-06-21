@@ -12,45 +12,8 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "name": {
-      "type": "string"
-    },
-    "date": {
-      "type": "datetime"
-    },
-    "status_plata": {
-      "type": "enumeration",
-      "enum": [
-        "platit",
-        "nu_a_fost_platit"
-      ]
-    },
-    "status_livrare": {
-      "type": "enumeration",
-      "enum": [
-        "livrat",
-        "nelivrat",
-        "fara_livrare"
-      ]
-    },
-    "phone": {
-      "type": "string"
-    },
-    "address": {
-      "type": "string"
-    },
-    "email": {
-      "type": "email"
-    },
     "products": {
       "collection": "product"
-    },
-    "mod_de_plata": {
-      "type": "enumeration",
-      "enum": [
-        "numerar",
-        "card"
-      ]
     },
     "add_ons": {
       "collection": "add-ons"

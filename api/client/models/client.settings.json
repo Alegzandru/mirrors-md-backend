@@ -26,6 +26,37 @@
     },
     "orders": {
       "collection": "order"
+    },
+    "status_plata": {
+      "type": "enumeration",
+      "enum": [
+        "platit",
+        "nu_a_fost_platit"
+      ]
+    },
+    "status_livrare": {
+      "type": "enumeration",
+      "enum": [
+        "livrat",
+        "nu_a_fost_livrat"
+      ]
+    },
+    "mod_de_plata": {
+      "type": "enumeration",
+      "enum": [
+        "numerar",
+        "card"
+      ]
+    },
+    "pret": {
+      "type": "decimal"
+    },
+    "mod_de_livrare": {
+      "type": "enumeration",
+      "enum": [
+        "livrare_la_usa",
+        "preluare_din_oficiu"
+      ]
     }
   }
 }
