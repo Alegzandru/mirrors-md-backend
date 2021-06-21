@@ -20,6 +20,9 @@
     },
     "price": {
       "type": "decimal"
+    },
+    "number": {
+      "type": "integer"
     }
   }
 }
