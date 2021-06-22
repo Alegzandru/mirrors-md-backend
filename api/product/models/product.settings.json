@@ -72,6 +72,9 @@
     },
     "biggestsize": {
       "model": "size"
+    },
+    "related_products": {
+      "collection": "product"
     }
   }
 }
