@@ -57,6 +57,9 @@
         "livrare_la_usa",
         "preluare_din_oficiu"
       ]
+    },
+    "comentariu": {
+      "type": "text"
     }
   }
 }
