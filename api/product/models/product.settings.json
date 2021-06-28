@@ -75,6 +75,11 @@
     },
     "related_products": {
       "collection": "product"
+    },
+    "materials": {
+      "collection": "material",
+      "via": "products",
+      "dominant": true
     }
   }
 }
