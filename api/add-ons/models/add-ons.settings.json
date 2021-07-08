@@ -26,6 +26,15 @@
     },
     "typename": {
       "type": "string"
+    },
+    "nameru": {
+      "type": "string"
+    },
+    "groupru": {
+      "type": "string"
+    },
+    "typenameru": {
+      "type": "string"
     }
   }
 }

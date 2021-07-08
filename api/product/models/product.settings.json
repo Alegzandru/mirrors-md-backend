@@ -80,6 +80,9 @@
       "collection": "material",
       "via": "products",
       "dominant": true
+    },
+    "nameru": {
+      "type": "string"
     }
   }
 }
