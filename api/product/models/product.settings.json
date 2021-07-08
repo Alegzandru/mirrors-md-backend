@@ -83,6 +83,11 @@
     },
     "nameru": {
       "type": "string"
+    },
+    "add_ons": {
+      "collection": "add-ons",
+      "via": "products",
+      "dominant": true
     }
   }
 }

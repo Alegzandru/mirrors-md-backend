@@ -35,6 +35,10 @@
     },
     "typenameru": {
       "type": "string"
+    },
+    "products": {
+      "via": "add_ons",
+      "collection": "product"
     }
   }
 }
