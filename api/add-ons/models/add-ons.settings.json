@@ -39,6 +39,14 @@
     "products": {
       "via": "add_ons",
       "collection": "product"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "buc",
+        "m2",
+        "ml"
+      ]
     }
   }
 }

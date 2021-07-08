@@ -85,8 +85,8 @@
       "type": "string"
     },
     "add_ons": {
-      "collection": "add-ons",
       "via": "products",
+      "collection": "add-ons",
       "dominant": true
     }
   }
