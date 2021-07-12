@@ -23,6 +23,9 @@
     },
     "number": {
       "type": "integer"
+    },
+    "size": {
+      "model": "size"
     }
   }
 }

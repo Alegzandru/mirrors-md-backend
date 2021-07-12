@@ -88,6 +88,9 @@
       "via": "products",
       "collection": "add-ons",
       "dominant": true
+    },
+    "seria": {
+      "type": "string"
     }
   }
 }
