@@ -91,6 +91,9 @@
     },
     "seria": {
       "type": "string"
+    },
+    "descriptionru": {
+      "type": "richtext"
     }
   }
 }

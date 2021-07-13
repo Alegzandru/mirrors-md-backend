@@ -47,6 +47,9 @@
         "m2",
         "ml"
       ]
+    },
+    "descriptionru": {
+      "type": "text"
     }
   }
 }
