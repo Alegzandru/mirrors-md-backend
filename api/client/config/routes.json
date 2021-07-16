@@ -34,7 +34,7 @@
     },
     {
       "method": "PUT",
-      "path": "/clients/:id",
+      "path": "/clients/:paynetid",
       "handler": "client.update",
       "config": {
         "policies": []
