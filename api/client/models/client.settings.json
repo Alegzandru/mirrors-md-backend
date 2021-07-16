@@ -60,6 +60,9 @@
     },
     "comentariu": {
       "type": "text"
+    },
+    "paynetid": {
+      "type": "biginteger"
     }
   }
 }
