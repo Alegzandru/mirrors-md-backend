@@ -16,7 +16,7 @@
       "type": "string"
     },
     "description": {
-      "type": "string"
+      "type": "text"
     },
     "price": {
       "type": "decimal"
@@ -50,6 +50,9 @@
     },
     "descriptionru": {
       "type": "text"
+    },
+    "popup": {
+      "type": "richtext"
     }
   }
 }
