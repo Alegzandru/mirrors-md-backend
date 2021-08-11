@@ -15,9 +15,6 @@
     "name": {
       "type": "string"
     },
-    "description": {
-      "type": "text"
-    },
     "price": {
       "type": "decimal"
     },
@@ -48,10 +45,10 @@
         "ml"
       ]
     },
-    "descriptionru": {
-      "type": "text"
-    },
     "popup": {
+      "type": "richtext"
+    },
+    "popupru": {
       "type": "richtext"
     }
   }
