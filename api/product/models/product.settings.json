@@ -94,6 +94,12 @@
     },
     "descriptionru": {
       "type": "richtext"
+    },
+    "nameen": {
+      "type": "string"
+    },
+    "descriptionen": {
+      "type": "richtext"
     }
   }
 }

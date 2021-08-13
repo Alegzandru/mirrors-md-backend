@@ -23,6 +23,12 @@
     },
     "nameru": {
       "type": "string"
+    },
+    "nameen": {
+      "type": "string"
+    },
+    "valueen": {
+      "type": "string"
     }
   }
 }

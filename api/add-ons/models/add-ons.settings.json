@@ -50,6 +50,18 @@
     },
     "popupru": {
       "type": "richtext"
+    },
+    "nameen": {
+      "type": "string"
+    },
+    "groupen": {
+      "type": "string"
+    },
+    "typenameen": {
+      "type": "string"
+    },
+    "popupen": {
+      "type": "string"
     }
   }
 }

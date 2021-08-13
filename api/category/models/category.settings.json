@@ -30,6 +30,9 @@
     },
     "nameru": {
       "type": "string"
+    },
+    "nameen": {
+      "type": "string"
     }
   }
 }
