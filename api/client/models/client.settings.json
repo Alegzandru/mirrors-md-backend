@@ -63,6 +63,9 @@
     },
     "paynetid": {
       "type": "biginteger"
+    },
+    "country": {
+      "type": "string"
     }
   }
 }
