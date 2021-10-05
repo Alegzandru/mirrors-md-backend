@@ -46,12 +46,6 @@
     "m2price": {
       "type": "decimal"
     },
-    "mediumsize": {
-      "model": "size"
-    },
-    "bigsize": {
-      "model": "size"
-    },
     "smallcoeficient": {
       "type": "decimal"
     },
@@ -100,6 +94,12 @@
     },
     "descriptionen": {
       "type": "richtext"
+    },
+    "mediumsize": {
+      "type": "integer"
+    },
+    "bigsize": {
+      "type": "integer"
     }
   }
 }
