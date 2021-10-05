@@ -95,10 +95,10 @@
     "descriptionen": {
       "type": "richtext"
     },
-    "mediumsize": {
+    "medium_size": {
       "type": "integer"
     },
-    "bigsize": {
+    "big_size": {
       "type": "integer"
     }
   }
