@@ -38,7 +38,9 @@
       "model": "category"
     },
     "filters": {
-      "collection": "filter"
+      "collection": "filter",
+      "via": "products",
+      "dominant": true
     },
     "description": {
       "type": "richtext"

@@ -29,6 +29,10 @@
     },
     "valueen": {
       "type": "string"
+    },
+    "products": {
+      "via": "filters",
+      "collection": "product"
     }
   }
 }
