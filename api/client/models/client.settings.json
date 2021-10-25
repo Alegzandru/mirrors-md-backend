@@ -55,7 +55,8 @@
       "type": "enumeration",
       "enum": [
         "livrare_la_usa",
-        "preluare_din_oficiu"
+        "preluare_din_oficiu",
+        "nova_poshta"
       ]
     },
     "comentariu": {
