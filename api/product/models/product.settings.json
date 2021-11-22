@@ -73,8 +73,8 @@
       "collection": "product"
     },
     "materials": {
-      "collection": "material",
       "via": "products",
+      "collection": "material",
       "dominant": true
     },
     "nameru": {

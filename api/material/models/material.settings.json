@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "materials",
   "info": {
-    "name": "material"
+    "name": "material",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -22,7 +23,8 @@
       "enum": [
         "ml",
         "m2",
-        "buc"
+        "buc",
+        "mm"
       ]
     },
     "products": {

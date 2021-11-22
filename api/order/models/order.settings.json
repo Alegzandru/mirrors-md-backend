@@ -26,6 +26,9 @@
     },
     "size": {
       "model": "size"
+    },
+    "text_acrilic": {
+      "type": "text"
     }
   }
 }
