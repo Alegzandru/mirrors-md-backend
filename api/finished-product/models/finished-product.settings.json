@@ -30,7 +30,10 @@
     },
     "Product": {
       "model": "product",
-      "via": "finished_product"
+      "via": "finished_products"
+    },
+    "Price_ro": {
+      "type": "integer"
     }
   }
 }

@@ -112,9 +112,9 @@
     "bigcoeficient_ro": {
       "type": "decimal"
     },
-    "finished_product": {
+    "finished_products": {
       "via": "Product",
-      "model": "finished-product"
+      "collection": "finished-product"
     }
   }
 }
