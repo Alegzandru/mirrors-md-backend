@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "finished_products",
+  "info": {
+    "name": "Finished Product",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string",
+      "required": true
+    },
+    "Height": {
+      "type": "integer",
+      "required": true
+    },
+    "Width": {
+      "type": "integer",
+      "required": true
+    },
+    "Price": {
+      "type": "integer",
+      "required": true
+    },
+    "Product": {
+      "model": "product",
+      "via": "finished_product"
+    }
+  }
+}

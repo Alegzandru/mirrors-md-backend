@@ -111,6 +111,10 @@
     },
     "bigcoeficient_ro": {
       "type": "decimal"
+    },
+    "finished_product": {
+      "via": "Product",
+      "model": "finished-product"
     }
   }
 }
