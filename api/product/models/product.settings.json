@@ -113,7 +113,7 @@
       "type": "decimal"
     },
     "finished_products": {
-      "via": "Product",
+      "via": "product",
       "collection": "finished-product"
     }
   }

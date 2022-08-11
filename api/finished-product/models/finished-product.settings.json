@@ -12,27 +12,27 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Name": {
+    "name": {
       "type": "string",
       "required": true
     },
-    "Height": {
+    "height": {
       "type": "integer",
       "required": true
     },
-    "Width": {
+    "width": {
       "type": "integer",
       "required": true
     },
-    "Price": {
+    "price": {
       "type": "integer",
       "required": true
     },
-    "Product": {
+    "product": {
       "model": "product",
       "via": "finished_products"
     },
-    "Price_ro": {
+    "price_ro": {
       "type": "integer"
     }
   }
