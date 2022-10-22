@@ -34,6 +34,12 @@
     },
     "price_ro": {
       "type": "integer"
+    },
+    "add_ons": {
+      "collection": "add-ons"
+    },
+    "slug": {
+      "type": "uid"
     }
   }
 }
